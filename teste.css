@@ -1,0 +1,192 @@
+#home{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+font-family: 'Arial', sans-serif;
+background-color: #376ad8;
+color: #333;
+}
+
+
+}
+
+hea
+
+}
+header {
+    
+    backg
+
+  
+background-color: #333;
+    
+    c
+
+ 
+color: white;
+    
+    
+padding: 10px 0;
+}
+
+nav ul {
+    
+    l
+
+ 
+list-style: none;
+    
+    displ
+
+ 
+display: flex;
+    
+    justify-co
+
+    justi
+
+   
+justify-content: center;
+}
+
+
+}
+
+n
+nav ul li {
+    
+    margi
+
+    ma
+
+  
+margin: 0 15px;
+}
+
+nav ul li a {
+    
+   
+color: white;
+    
+    text-decoratio
+
+    text-d
+text-decoration: none;
+    
+    f
+font-size: 18px;
+}
+
+.hero {
+    
+    backgro
+
+    
+background-image: url('background.jpg');
+    
+    backgroun
+
+    ba
+background-size: cover;
+    
+    h
+
+ 
+height: 400px;
+    
+    dis
+display: flex;
+    
+    justify-conten
+
+    justify-
+
+    j
+justify-content: center;
+    align-items: center;
+    
+  
+color: white;
+    
+    text-
+
+    
+text-align: center;
+}
+
+
+}
+
+sect
+
+}
+
+s
+
+}
+section {
+    padding: 40px 20px;
+    margin: 20px 0;
+}
+
+.gallery {
+    
+    disp
+display: grid;
+    
+    gri
+
+  
+grid-template-columns: repeat(3, 1fr);
+    
+   
+gap: 20px;
+}
+
+
+}
+
+.
+.gallery img {
+    
+    wi
+width: 100%;
+    
+   
+height: auto;
+    
+    bor
+
+  
+border-radius: 10px;
+}
+
+
+}
+
+foot
+
+}
+footer {
+    
+    text-ali
+
+    text
+
+    
+text-align: center;
+    
+    pa
+padding: 20px;
+    
+    backgr
+background-color: #333;
+    
+    c
+color: white;
+}
+
+}

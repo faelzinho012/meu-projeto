@@ -1,0 +1,48 @@
+/*
+****** limpar formataçao ******
+*/
+body {
+  background-color: lightblue;
+}
+{
+    
+    margin: 4;
+    padding: 4;
+}
+/*
+****** logo ******
+*/
+
+#logo{
+    background-color: rgb(180, 159, 218);
+    padding: 0%;
+    text-align: center;
+}
+p {
+    text-align:justify
+    color:center
+    padding-left: 0%;
+
+  }
+  
+#menu{
+  
+    background-color: rgb(192, 188, 255);
+    width: 320px;
+    height: 100px;
+    padding: 10px;
+    border: 5px solid rgb(10, 3, 20);
+    margin: auto;
+    
+        
+        a:link {
+            color: hsl(0, 0%, 100%);
+          }
+          a:hover {
+            color: #121112;
+          }
+          a:active {
+            color: #0808ed;
+          }
+         
+}

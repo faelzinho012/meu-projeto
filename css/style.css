@@ -1,0 +1,107 @@
+/* Reset básico de margens e padding */
+* {
+    margin: 0;
+    
+    padd
+  
+    
+  padding: 0;
+    
+    box
+  
+    
+  box-sizing: border-box;
+  }
+  
+  
+  }
+  
+  /
+  /* Corpo do site */
+  
+  bo
+  body {
+    font-family: Arial, sans-serif;
+    
+    backgroun
+  
+    backg
+  background-color: #f4f4f4;
+    
+    colo
+  
+    c
+  color: #333;
+    padding: 0;
+    
+    marg
+  
+    m
+  margin: 0;
+  }
+  
+  /* Estilo do logo e título */
+  
+  #
+  #logo {
+    text-align: center;
+    
+    backgr
+  
+    ba
+  background-color: #333;
+    color: white;
+    
+    paddi
+  
+    pa
+  
+   
+  padding: 30px;
+  }
+  
+  #logo h1 {
+    
+    fo
+  
+   
+  font-size: 2.5em;
+    margin: 0;
+  }
+  
+  /* Estilo da imagem */
+  img {
+    
+    dis
+  display: block;
+    
+    max-
+  
+    m
+  max-width: 100%;
+    
+    mar
+  
+   
+  margin: 20px auto;
+    border-radius: 8px;
+  }
+  
+  /* Estilo do parágrafo */
+  p {
+    
+    text-al
+  
+    text
+  
+    
+  text-align: center;
+    
+    
+  font-size: 1.2em;
+    
+    marg
+  
+    m
+  margin: 20px auto;
+    width
